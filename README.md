@@ -1,7 +1,7 @@
 # Rolling Dice
 
 ## Ejemplo en vivo
-- [¡Pruebalo!](https://mloaiza98.github.io/Simon-Game/)
+- [¡Pruebalo!](https://mloaiza98.github.io/Dice/)
 
 ## Descripción 📑
 
